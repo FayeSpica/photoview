@@ -152,6 +152,7 @@ var fileExtensions = map[string]MediaType{
 	".tiff": TypeTiff,
 	".bmp":  TypeBmp,
 	".heic": TypeHeic,
+	".heif": TypeHeic,
 
 	// RAW formats
 	".dng": TypeDNG,
